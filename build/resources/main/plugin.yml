@@ -1,0 +1,22 @@
+name: TNTRun
+version: '1.0'
+main: greenlink.TntRun
+api-version: '1.16'
+depend: [ ProtocolLib ]
+softdepend: [Multiverse-Core]
+commands:
+  settntrunarena:
+  settntrunarenamini:
+  settntrunfloor:
+  delarena:
+  delfloor:
+  tntrunfloorlist:
+  tntrunarenalist:
+  tntrunmax:
+  tntrunminimax:
+  tntrunmin:
+  tntrunminimin:
+  settntruntel:
+  tntruntellist:
+  deltntruntel:
+  tntrun:

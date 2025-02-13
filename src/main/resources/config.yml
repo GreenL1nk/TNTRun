@@ -1,0 +1,5 @@
+data:
+  maxPlayers: 24
+  maxPlayersMini: 12
+  minPlayers: 2
+  minPlayersMini: 2
